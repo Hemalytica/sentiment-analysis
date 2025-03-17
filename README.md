@@ -15,8 +15,8 @@ This app helps analyze customer reviews and provides sentiment insights in a vis
 
 ## 🖥️ Demo Screenshot  
 
-![Sentiment Analysis Bar Chart](assets/Demo_screenshot1.PNG)
 ![Customer Review Sentiment Analysis Dashboard](assets/Demo_screenshot.PNG)
+![Sentiment Analysis Bar Chart](assets/Demo_screenshot1.PNG)
 
 ## ⚡ Getting Started  
 
