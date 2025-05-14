@@ -3,6 +3,9 @@
 A simple and interactive sentiment analysis web app built using **Streamlit, Pandas, and Matplotlib**.  
 This app helps analyze customer reviews and provides sentiment insights in a visually appealing way.
 
+## 🚀 Live app
+
+🔗 [Click here to view the live app](https://sentiment-analysis-h9joj3leowidwhrsab8v7w.streamlit.app/)
 
 ## ✨ Features  
 
@@ -11,7 +14,6 @@ This app helps analyze customer reviews and provides sentiment insights in a vis
 ✔ Classify sentiments as **Positive, Neutral, or Negative**.  
 ✔ Explore data with **interactive visualizations and filters**.  
 ✔ User-friendly interface powered by **Streamlit**.  
-
 
 ## 🖥️ Demo Screenshot  
 
